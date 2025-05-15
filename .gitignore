@@ -1,3 +1,9 @@
 # Toolchains & Binaries
 ldd/downloads
 source/linux/*
+
+# GUIs
+.vscode
+
+# Linux Kernel
+source
